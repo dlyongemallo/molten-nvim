@@ -1,4 +1,4 @@
-# Too Quick State Guide
+# Too-Quick Start Guide
 
 In stark contrast to the other guide, this one will be really quick (I promise).
 

@@ -213,7 +213,7 @@ Molten has two image providers, `image.nvim` or `wezterm`:
 dependencies). It renders images in neovim inline with other cell output. This creates a better
 experience, but it can be buggy with large numbers of images, and it does not work on Windows.
 
-- `wezterm` requires the [wezterm.nvim](https://willothy/wezterm.nvim) plugin (and the wezterm
+- `wezterm` requires the [wezterm.nvim](https://github.com/willothy/wezterm.nvim) plugin (and the wezterm
   terminal emulator). It renders images in a wezterm split pane using wezterm's `imgcat` program. This
   method is significantly less buggy with large numbers of images and works on Windows, but it doesn't
   keep images next to the code they came from.
